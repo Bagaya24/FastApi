@@ -1,0 +1,3 @@
+notification for john@example.com
+found query: hello bro
+notification for john@example.com
